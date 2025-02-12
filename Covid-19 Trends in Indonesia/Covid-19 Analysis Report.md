@@ -1,13 +1,12 @@
 # Project: Mapping the COVID-19 Trends in Indonesia
 
-
-## Table of Contents
-1. [Introduction](#Introduction)
-2. [Data Acquisition and Preparation](#Data-Ascquisitions-and-Preparation)
-3. [Data Processing](Data-Processing)
-4. [Data Analysis and Visualization](Data-Analysis-and-Visualization)
-5. [Data Interpretation](Data-Interpretation)
-6. [Recommendations](Recommendations)
+## Table of Contents  
+1. [Introduction](#introduction)
+2. [Data Acquisition and Preparation](#data-acquisition-and-preparation)
+3. [Data Processing](#data-processing)
+4. [Data Analysis and Visualization](#data-analysis-and-visualization)
+5. [Data Interpretation](#data-interpretation)
+6. [Recommendations](#recommendations)
 
 
 ## Introduction
