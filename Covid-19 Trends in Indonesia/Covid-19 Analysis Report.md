@@ -2,15 +2,17 @@
 
 
 ## Table of Contents
-
-- [Introduction](#Introduction)
-- [Data Acquisition and Preparation](#Data Ascquisitions and Preparation)
-- Data Processing
-- Data Analysis and Visualization
-- Data Interpretation
-- Recommendations
+1. [Introduction](#Introduction)
+2. [Data Acquisition and Preparation](#data-ascquisitions-and-preparation)
+3. [Data Processing](data-processing)
+4. Data Analysis and Visualization
+5. Data Interpretation
+6. Recommendations
 
 ## Introduction
 
 
 ## Data Acquisition and Preparation
+
+
+## Data Processing
