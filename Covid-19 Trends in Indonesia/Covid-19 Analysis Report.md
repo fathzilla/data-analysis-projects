@@ -29,7 +29,7 @@ In Looker Studio, I used 3 types kind of visualization as shown in Figure 1.
 
 The dashboard shown below was created based on the data analysis.
 <figure>
-  <img src="https://github.com/fathzilla/data-analysis-projects/blob/main/Covid-19 Trends in Indonesia/Covid-19 Analysis Dashboard.png" width=80% height=80% alt="alt text">
+  <img src="https://github.com/fathzilla/data-analysis-projects/blob/main/Covid-19 Trends in Indonesia/Covid-19 Analysis Dashboard.png" width=90% height=90% alt="alt text">
   <figcaption>Figure: Covid-19 Analysis Dashboard</figcaption>
 </figure>
 <br/><br/>
@@ -41,6 +41,7 @@ The dashboard shown below was created based on the data analysis.
 *    The top 10 regions with the highest recorded cases in Indonesia are Jakarta, West Java, Central Java, East Java, Banten, Yogyakarta, East Kalimantan, Bali, North Sumatra, and Riau.
 
 ## Recommendations
+There are some top recommendations based on my analysis:
 *    Expand hospital and ICU capacity in high-risk regions like Jakarta, West Java, and Central Java.
 *    Ensure adequate medical supplies, considering the peak of 2,071 daily deaths on July 27, 2021.
 *    Strengthen testing and contact tracing to prevent surges like those on July 16, 2021 (53,992 cases) and February 16, 2022 (64,718 cases).
@@ -51,4 +52,4 @@ The dashboard shown below was created based on the data analysis.
 
 <br/><br/>
 
-**Thank you, I appreciate you taking the time to read this report!**
+**I appreciate you taking the time to read this report, Thank You!**
